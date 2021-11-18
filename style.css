@@ -2,3 +2,29 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+body {
+    background-color: lightskyblue;
+    margin: 2rem 1rem;
+}
+
+h1 {
+    background-color: lightslategray;
+}
+
+form {
+    background-color: lightsalmon;
+}
+
+#links {
+    background-color: lightgreen;
+}
+
+#lorem {
+    background-color: lightyellow;
+}
+
+#lorem p {
+    background-color: lightgray;
+    max-width: 40rem;
+}
